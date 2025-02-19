@@ -1,1 +1,1 @@
-#A streaming service design document
+#A streaming service design document.
